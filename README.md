@@ -4,8 +4,10 @@
 
 ## 2. Installation instruction
 ### 2.1 Clone this repo
-You can clone this repository to your local machine using the following command:\\
+You can clone this repository to your local machine using the following command:
+
 ```git clone https://github.com/jsong-astro/USmorph.git ```
+
 Alternatively, you can also download the relevant `.zip` file from the [GitHub](https://github.com/jsong-astro/USmorph) website.
 
 ### 2.2 Set up your environment
