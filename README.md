@@ -57,7 +57,7 @@ Here are the detailed steps:
 	-net model_name: the model you used, e.g., googlenet
 	-gpu           : omit this if the device has no GPU; defaults to CPU
 	-b 32          : the batch size, which can be adjusted based on server performance; reducing it will 
-					 decrease memory usage, and the value should be a power of 2
+			 decrease memory usage, and the value should be a power of 2
 	
 	# For example, you would input:
 	python train.py -net googlenet -gpu -b 32
